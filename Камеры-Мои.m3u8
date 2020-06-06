@@ -1,0 +1,581 @@
+#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1 group-title="Моя",КИНО ТВ
+http://178.69.23.26:8000/play/36-ntv-kino-tv-0d60c70
+#EXTINF:-1 group-title="Кино",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 HD
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 Action
+http://193.33.232.230/TV1000Action/mono.m3u8
+#EXTINF:-1 group-title="Кино",VIP Megahit HD
+http://193.33.232.230/TV1000Megahit/mono.m3u8
+#EXTINF:-1 group-title="Кино",ViP Premiere HD
+http://193.33.232.230/TV1000Premium/mono.m3u8
+#EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_38_39.m3u8
+#EXTINF:-1 group-title="Моя",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="Моя",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Моя",Кино ТВ
+http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+#EXTINF:-1 group-title="Моя",Кино ТВ HD
+http://astra.realcrimea.net:8000/play/a01e
+#EXTINF:-1 group-title="Кино",Киномикс HD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино",Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Моя",Мужское Кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1 group-title="Моя",Мужское Кино HD
+http://persik.by/stream/6606/411484/10368.m3u8
+#EXTINF:-1 group-title="Новости",Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Моя",Русский Детектив
+http://hlstv.kem.211.ru/239.211.211.95/stream.m3u8
+#EXTINF:-1 group-title="Кино",Фантастика HD
+http://xiptv.site/strahvideo
+#EXTINF:-1 group-title="Новости",Дождь HD
+http://hlstv.kem.211.ru/239.211.200.34/stream.m3u8
+#EXTINF:-1 group-title="Новости",Первый канал
+http://persik.by/stream/6606/411484/8.m3u8
+#EXTINF:-1 group-title="Музыкальные",AIVA HD
+https://strm.yandex.ru/kal/aiva/aiva0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные",Russian Music Box HD
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные",O!2 HD
+http://hlstv.kem.211.ru/239.211.200.36/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные",Первый Музыкальный HD
+http://persik.by/stream/6606/411484/10024.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+http://hlstv.kem.211.ru/239.211.211.98/stream.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://persik.by/stream/6606/411484/805.m3u8
+#EXTINF:-1 group-title="Детские",Da Vinci
+http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
+#EXTINF:-1 group-title="Детские",Jim Jam
+http://persik.by/stream/6606/411484/454.m3u8
+#EXTINF:-1 group-title="Детские",Детские Co
+https://v2.catcast.me/content/36628/index.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://persik.by/stream/6606/411484/10420.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://stream3.kuvalda.tv/hls/karusel.m3u8
+#EXTINF:-1 group-title="Детские",Мама
+http://hlstv.kem.211.ru/239.211.211.7/stream.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+http://hlstv.kem.211.ru/239.211.211.6/stream.m3u8
+#EXTINF:-1 group-title="Детские",Мульт и Музыка
+http://hlstv.kem.211.ru/239.211.211.12/stream.m3u8
+#EXTINF:-1 group-title="Детские",Мультиландия
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Пиксель ТВ
+http://79.142.197.7:8888/Piksel/mono.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик HD
+https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Детские",Советские Мультфильмы
+http://serv30.vintera.tv:8081/obninsk_rusmult/rusmult/playlist.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",National Geographic HD
+http://persik.by/stream/6606/411484/10243.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",ZOO ПАРК
+http://persik.by/stream/6606/411484/331.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",Дайвинг TV
+https://strm.yandex.ru/kal/diving/diving0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",Домашние Животные
+http://persik.by/stream/6606/411484/601.m3u8
+#EXTINF:-1 group-title="Еда",Food Network HD
+http://83.172.32.25:8012/tv/foodnetworkhd
+#EXTINF:-1 group-title="Еда",Еда HD
+http://hlstv.kem.211.ru/239.211.200.14/stream.m3u8
+#EXTINF:-1 group-title="Еда",Кухня ТВ
+http://persik.by/stream/6606/411484/383.m3u8
+#EXTINF:-1 group-title="Еда",Телекафе
+http://185.22.183.150:8085/media/hls_183_150/telekafe/index.m3u8
+#EXTINF:-1 group-title="Мода",Fashion TV HD
+https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Моя",Оружие
+http://83.172.32.25:8012/tv/oruzhie
+#EXTINF:-1 group-title="Кино",Кино 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Мир сериала
+http://83.172.32.25:8012/tv/mirseriala
+#EXTINF:-1 group-title="Моя",Мужское кино
+http://83.172.32.25:8012/tv/muzhskoekino
+#EXTINF:-1 group-title="Природа и путешествия",Zoo TV
+http://83.172.32.25:8012/tv/zootv
+#EXTINF:-1 group-title="Природа и путешествия",В мире животных
+http://83.172.32.25:8012/tv/animalfamilyhd
+#EXTINF:-1 group-title="Федеральные",Охотник и Рыболов HD
+http://83.172.32.25:8012/tv/okhotnikirybolovhd
+#EXTINF:-1 group-title="Моя",ТНТ4 HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1 group-title="Моя",ТНТ 4 HD
+http://195.191.208.2:8086/udp/233.170.170.130:58631
+#EXTINF:-1 group-title="Новости",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="Детские",nickelodeon HD
+http://83.172.32.25:8012/tv/nickelodeonhd
+#EXTINF:-1 group-title="Детские",Ani
+http://83.172.32.25:8012/tv/ani
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://83.172.32.25:8012/tv/gulli
+#EXTINF:-1 group-title="Детские",JimJam
+http://83.172.32.25:8012/tv/jimjam
+#EXTINF:-1 group-title="Детские",TiJi
+http://83.172.32.25:8012/tv/tiji
+#EXTINF:-1 group-title="Кино",Fifth Movies
+https://5656.ga/ch5.m3u8
+#EXTINF:-1 group-title="Кино",Sixth Movies
+https://5656.ga/ch6.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV HD
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+#EXTINF:-1 group-title="Мода",Fashion TV HD
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Комсомолец
+http://193.107.103.53:8090/office-kr/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Площадь 200 лет
+http://193.107.103.53:8090/Plosh200/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Автовокзал
+http://193.107.103.53:8090/mir-auto/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Сцена
+http://193.107.103.53:8090/park-koleso-new/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Самолет
+http://193.107.103.53:8090/park-outscena/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Центр площадь
+http://193.107.103.53:8090/Ploshad/index.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",National Geographic
+http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
+#EXTINF:-1 group-title="Кино",TVXXI
+http://178.217.72.66:80/225.201.2.68/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Моя",Звезда
+http://dmitry-tv.my1.ru/his/02/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 11
+http://v1.catcast.me/contentv2/35525/index.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 14
+http://v2.catcast.me/content/34246/index.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 16
+https://5656.ga/ch3.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 20
+https://5656.ga/ch2.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 5
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Кинопремьера
+http://hlstv.kem.211.ru/239.211.200.28/stream.m3u8
+#EXTINF:-1 group-title="Новости",Рен ТВ
+http://uiptv.do.am/1ufc/102323759/playlist.m3u8?streamType=live
+#EXTINF:-1 group-title="Новости",Россия 24
+http://dmitry-tv.my1.ru/his/01/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",Че
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 4 HD
+http://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 6
+https://5656.ga/ch6.﻿
+#EXTINF:-1 group-title="Кинозал",Кинозал 12 (Сити Эдем TV)
+https://v2.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 1 (Марс-ТВ)
+https://v2.catcast.tv/content/37033/index.m3u8
+#EXTINF:-1 group-title="Яндекс",Яндекс.Маша и медведь HD
+https://strm.yandex.ru/vh-ott-converted/ott-content/484976849-48927820faf679ae881368779d3cda35/master.m3u8
+#EXTINF:-1 group-title="Яндекс",Яндекс.Сваты HD
+https://strm.yandex.ru/vh-ott-converted/ott-content/482644561-417a57d2b239fe98973d3eac6941f3f3/master.m3u8
+#EXTINF:-1 group-title="Яндекс",Яндекс.Фэнтези HD
+https://strm.yandex.ru/vh-ott-converted/ott-content/484276041-46e8e75afbc08e358fec89e358f1403d/master.m3u8
+#EXTINF:-1 group-title="4K",MyZen TV 4K
+http://kabds7rp.russtv.net/iptv/FE52KVSMZHAUFQ/5001/index.m3u
+#EXTINF:-1 group-title="Федеральные",Мир Premium (FHD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ Music (FHD)
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8?|User-agent=mx
+#EXTINF:-1 group-title="Новости",ПЕРВЫЙ КАНАЛ 720
+http://91.232.39.17:8002/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Новости",НТВ
+http://91.232.39.17:8002/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Новости",ПЯТЫЙ КАНАЛ
+http://91.232.39.17:8002/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Детские",КАРУСЕЛЬ
+http://91.232.39.17:8002/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВ Центр
+http://91.232.39.17:8002/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Мода",Luxury (FHD)
+https://strm.yandex.ru/kal/luxuryhd/luxuryhd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Федеральные",Мир (FHD)
+https://strm.yandex.ru/kal/mir/mir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Федеральные",Совершенно Секретно (HD)
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0.m3u8
+#EXTINF:-1 group-title="Музыкальные",Russian Music Box (FHD)
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ Music(1024)
+http://cdn-01.bonus-tv.ru:8080/tntmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ Music (1024)
+http://cdn-01.bonus-tv.ru:8080/tntmusic/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",O2TV [FHD]
+https://strm.yandex.ru/kal/o2/o20_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мода",FTV Midnight Secrets (UHD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Детские",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="Мода",Jasmin TV HD
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w359453841.m3u8
+#EXTINF:-1 group-title="Мода",Jasmin (1280) 18+
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Детские",МАЛЯТКО TV
+http://163.172.179.78:8081/tv/maliatko/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Nick Jr.
+http://178.217.72.66/225.201.2.90/index.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://178.217.72.66:80/225.201.2.152/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные",NANO HD
+http://185.46.48.16/NANO/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница (FHD)
+http://195.191.208.2:8086/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="Природа и путешествия",Travel Channel HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
+#EXTINF:-1 group-title="Еда",Food Network HD
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",Обезьяны
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик HD
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 group-title="Детские",Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 group-title="Детские",КАРУСЕЛЬ
+http://79.135.71.195:8008
+#EXTINF:-1 group-title="Детские",2x2
+http://79.135.71.195:8030
+#EXTINF:-1 group-title="Моя",Супер (FHD)
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:-1 group-title="Федеральные",Наш Дом (1024)
+http://85.234.33.60/stream/c11.m3u8
+#EXTINF:-1 group-title="Новости",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="Новости",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="Детские",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Детские",Малятко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1 group-title="Природа и путешествия",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости",РБК 576
+http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Мода",Fashion TV (FHD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="Моя",АТВ (Ставрополь)
+http://hls.atvmedia.ru/atv800.m3u8
+#EXTINF:-1 group-title="Федеральные",Мир (FHD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Известия ТВ (1920)
+http://hls-igi.cdnvideo.ru/igi/igi_hq/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.igi
+#EXTINF:-1 group-title="Новости",Известия ТВ FHD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Дорама
+http://kabds7rp.russtv.net/iptv/FE52KVSMZHAUFQ/1066/index.m3u
+#EXTINF:-1 group-title="Природа и путешествия",National Geographic FHD
+http://kabds7rp.russtv.net/iptv/FE52KVSMZHAUFQ/2415/index.m3u
+#EXTINF:-1 group-title="Познавательные",Discovery Science HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 group-title="Федеральные",Первый Метео
+http://live-meteotv.cdnvideo.ru/meteotv/meteotv/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Ратник ТВ (FHD)
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Мода",Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="Музыкальные",ZETA (FHD)
+http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="Музыкальные",Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Еда",Кухня ТВ
+http://russia.livetv.az/russia/kuhnyatv/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV HD (1280)
+http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV (1280)
+http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 group-title="Моя",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Киносвидание (FHD)
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",Люкс FM UA (FHD)
+http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Евроновости (1280)
+http://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",Ocean TV HD
+http://strm.yandex.ru/kal/oceantv_supres/oceantv_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Федеральные",Охотник и рыболов (HD)
+http://strm.yandex.ru/kal/ohotnik/ohotnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Кино",Ратник (FHD)
+http://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Кино",Советское Кино HD
+http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Познавательные",Earth TV HD
+http://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Федеральные",Загородный (FHD)
+http://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Федеральные",ТВЦ
+http://tvc-hls.cdnvideo.ru:80/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:-1 group-title="Федеральные",The Weather Channel HD
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="Мода",WFC TV International HD
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Мода",World Fashion Channel International (1024)
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Мода",World Fashion Channel Россия (FHD)
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Мода",World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные",NASA TV (HD)
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
+#EXTINF:-1 group-title="Моя",ТНТ4 HD
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:-1 group-title="Кино",HD Кино (1280)
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+#EXTINF:-1 group-title="Детские",O!
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="Музыкальные",AIVA (FHD)
+https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Федеральные",Диалоги о рыбалке (FHD)
+https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Мода",Fashion TV (FHD)
+https://strm.yandex.ru/kal/fashiontv/fashiontv0.m3u8
+#EXTINF:-1 group-title="Кино",Классика Кино HD
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8?vsid=0
+#EXTINF:-1 group-title="Мода",LUXURY (FHD)
+https://strm.yandex.ru/kal/luxuryhd/luxuryhd0.m3u8
+#EXTINF:-1 group-title="Музыкальные",Муз ТВ HD
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8?vsid=0
+#EXTINF:-1 group-title="Кино",Ратник HD
+https://strm.yandex.ru/kal/ratnik/ratnik0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",РБК (1280)
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV HD (1280)
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="4K",Наша сибирь (FHD)
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Кино",Советское Кино HD
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0.m3u8?vsid=0
+#EXTINF:-1 group-title="Музыкальные",SongTV Россия (FHD)
+http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ Music (FHD)
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Кино",A2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1 group-title="Мода",ID Fashion (KZ)
+https://sc.id-tv.kz/IDFashion_38_39.m3u8
+#EXTINF:-1 group-title="Федеральные",ДОЖДЬ
+https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Федеральные",СТС International
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24 (1024)
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 group-title="Мода",Fashion TV (SK-FHD)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 group-title="Мода",World Fashion Channel International (FHD)
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Мода",World Fashion Channel Россия (1024)
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+#EXTINF:-1 group-title="Федеральные",Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",Travel Guide TV HD
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Классика кино HD (1280)
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",ПЯТНИЦА! HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1 group-title="Кинозал",Кинозал 1
+https://or-be-01.mycdn.video/watch/hit/index.m3u8?token=NJAZAMYQLP
+#EXTINF:-1 group-title="Кинозал",Кинозал 17
+https://5656.ga/ch4.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 19
+https://5656.ga/ch1.m3u8
+#EXTINF:-1 group-title="Кинозал",Кинозал 7
+http://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:-1 group-title="Новости",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.0
+#EXTINF:-1 group-title="Федеральные",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+#EXTINF:-1 group-title="Кино",WOW!TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 group-title="Новости",Россия 1 HD
+http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
+#EXTINF:-1 group-title="Новости",РБК ТВ 576
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Кино",Кино Меню HD
+http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ТНТ HD
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:-1 group-title="Федеральные",Пятница HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1 group-title="Природа и путешествия",Ocean TV (HD)
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-1 group-title="Новости",ТВ-3 HD
+http://195.191.208.2:8086/udp/233.170.170.79:58631
+#EXTINF:-1 group-title="Новости",СТС
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Disney
+http://178.217.72.66/225.201.2.105/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Gulli Girl
+http://178.217.72.66:80/225.201.2.118/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://178.217.72.66/225.201.2.35/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Rik
+https://nn.geo.joj.sk/live/rik-index.m3u8
+#EXTINF:-1 group-title="Познавательные",Nano TV HD
+http://185.46.48.16/NANO/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon network
+http://178.217.72.66:80/225.201.2.73/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские",Канал Disney
+http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Еда",FoodMan Club
+https://strm.yandex.ru/kal/joycook/joycook0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Еда",Вкусное ТВ
+https://strm.yandex.ru/kal/vkusnoetv/vkusnoetv0.m3u8
+#EXTINF:-1 group-title="Мода",Fashion 4K
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Мода",ID Fashion HD
+http://idfashion-hls3.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Мода",Nuart TV
+http://178.217.72.66:80/225.201.2.64/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Администрация
+http://193.107.103.53:8090/admin-2/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Театр
+http://193.107.103.53:8090/dram-teatr/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь ДДТ
+http://193.107.103.53:8090/homedt/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Церковь
+http://193.107.103.53:8090/Komsomolsk/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Гуднес
+http://193.107.103.53:8090/Park_Input/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь пр.Революции
+http://193.107.103.53:8090/Soldat-Scena/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь Кольцо
+http://193.107.103.53:8090/tuhach/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой - ул.Сибирская
+http://195.191.130.3:8080/Sibirskaya/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой - Парк дружбы
+http://195.191.130.3:8080/10.133.9.30_Zvezda/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой ул.26 сьезда
+http://195.191.130.3:8080/26-syezda/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой ул.Дружбы народов
+http://195.191.130.3:8080/Administraciya/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Озеро Молодежное
+http://195.191.130.3:8080/DC_Yamal/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Газодобытчик
+http://195.191.130.3:8080/Gazodob/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой ул.Геологоразведчиков
+http://195.191.130.3:8080/Geologov/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Гимназия
+http://195.191.130.3:8080/Gimnaziya/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Городская площадь
+http://195.191.130.3:8080/Gor_pl/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Площадь памяти
+http://195.191.130.3:8080/Pl_pamyati/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Проспект Губкина
+http://195.191.130.3:8080/Pr-t_Gubkina/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Пр-т Ленинградский
+http://195.191.130.3:8080/Pr-t_Len/index.m3u8
+#EXTINF:-1 group-title="УРЕНГОЙ",Новый Уренгой Виадук
+http://195.191.130.3:8080/Viaduk/index.m3u8
+#EXTINF:-1 group-title="Мода",FASHION MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 group-title="Музыкальные",RU TV 720 [HD]
+http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь ул.Бруснева
+http://stream.iformula.ru:8080/hls/Brusneva9.m3u8
+#EXTINF:-1 group-title="Ставрополь",Ставрополь ул.Тухачевского
+http://stream.iformula.ru:8080/hls/Tuh22.1.m3u8
+#EXTINF:-1 group-title="Музыкальные",Europa Plus TV [HD]
+http://strm.yandex.ru/kal/europaplus/europaplus0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Новости",Россия 1 HD
+https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+#EXTINF:-1 group-title="Мода",HD Fashion & Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",HIT TV [HD]
+https://strm.yandex.ru/kal/hittv/hittv0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Музыкальные",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыкальные",Первый Музыкальный RU BY [FHD]
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыкальные",O!2 720-HD
+https://strm.yandex.ru/kal/o2/o20_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные",1HD
+http://89.106.234.4:80/1hd_34_35.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТНТ MUSIC HD
+https://video-4-305.rutube.ru/stream/194.190.76.10/f5ba23a0149f409c18168231844e0a3b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 2 Обзорная
+https://webcam.feonet.net/91889/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 7 Берег
+https://webcam.feonet.net/adv_18569/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 13 ЖД
+https://webcam.feonet.net/adv_42370/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 1 Набережная
+https://webcam.feonet.net/adv_48877/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 5 Бухта-1
+https://webcam.feonet.net/adv_54655/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 6 Бухта-2
+https://webcam.feonet.net/adv_54656/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 14 Морской Вокзал
+https://webcam.feonet.net/adv_54664/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 10 Перекресток
+https://webcam.feonet.net/adv_54757/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 3 Коктебель
+https://webcam.feonet.net/adv_55555/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 12 Музей
+https://webcam.feonet.net/adv_56461/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 4 Набережная-2
+https://webcam.feonet.net/adv_63262/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 11 Парк
+https://webcam.feonet.net/adv_92332/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 9 Морской Порт
+https://webcam.feonet.net/adv_92333/index.m3u8
+#EXTINF:-1 group-title="ФЕОДОСИЯ",Феодосия 8 Порт
+https://webcam.feonet.net/adv_30545/index.m3u8
+#EXTINF:-1 group-title="Музыкальные",Жара TV
+http://178.217.72.66/225.201.2.110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости",Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Новости",НТВ
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Моя",Кино ТВ
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Мода",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Новости",ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234
+#EXTINF:-1 group-title="Новости",ТВ-3 HD
+http://85.112.114.11:8086/udp/238.2.50.7:1234.1.0
+#EXTINF:-1 group-title="Мода",HD Fashion UA HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1 group-title="Мода",Odessa Fashion
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:-1 group-title="Новости",ТНТ HD
+http://195.191.208.2:8086/udp/229.54.15.106:1234
+#EXTINF:-1 group-title="Детские",BBC Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="Детские",Disney
+http://stream3.kuvalda.tv/hls/disney.m3u8
+#EXTINF:-1 group-title="Детские",Nick Jr
+http://83.172.32.25:8012/tv/nickjr
